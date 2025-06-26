@@ -53,3 +53,4 @@ Cybersecurity: Identifying phishing or spam attacks to protect users and institu
 Customer Support: Helping businesses triage support requests by filtering spam or irrelevant messages.
 
 *OUTPUT* :
+![Image](https://github.com/user-attachments/assets/f0f2bb4e-e4e5-4aa7-b34f-5fed6ce14ce9)
